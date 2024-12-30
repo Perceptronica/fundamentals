@@ -1,2 +1,6 @@
-# fundamentals
-essential books and notes
+# Fundamentals
+
+```
+chmod +x install.sh
+./install.sh
+```
