@@ -5,6 +5,7 @@
 urls=(
     "https://mml-book.github.io/book/mml-book.pdf"
     "https://raw.githubusercontent.com/janishar/mit-deep-learning-book-pdf/master/complete-book-bookmarked-pdf/deeplearningbook.pdf"
+    "https://github.com/udlbook/udlbook/releases/download/v5.00/UnderstandingDeepLearning_11_21_24_C.pdf"
 )
 
 target_dir="books/ml-dl"
